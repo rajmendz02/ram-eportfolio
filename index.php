@@ -99,7 +99,7 @@
 
                 <div class="uno">
                   <img src="./assets/img/sauce2.png" alt="" />
-                  <span><b>2+</b> Years of <br />Experience</span>
+                  <span><b>3+</b> Years of <br />Experience</span>
                 </div>
                 <div class="dos">
                   <img src="./assets/img/project.png" alt="" />
